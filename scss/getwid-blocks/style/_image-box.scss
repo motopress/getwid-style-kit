@@ -1,0 +1,46 @@
+.wp-block-getwid-image-box {
+
+    .wp-block-getwid-image-box__image-container {
+
+        .wp-block-getwid-image-box__image-wrapper {
+
+            img {
+
+            }
+        }
+
+        a.wp-block-getwid-image-box__image-wrapper {
+
+        }
+    }
+
+    .wp-block-getwid-image-box__content {
+
+    }
+
+    &.has-image-left {
+        .wp-block-getwid-image-box__image-container {
+
+        }
+    }
+
+    &.has-image-right {
+        .wp-block-getwid-image-box__image-container {
+
+        }
+    }
+
+    &.has-mobile-layout-column {
+
+        .wp-block-getwid-image-box__image-container {
+
+        }
+    }
+
+    &.has-mobile-layout-column-reverse {
+
+        .wp-block-getwid-image-box__image-container {
+
+        }
+    }
+}

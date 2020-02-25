@@ -1,0 +1,77 @@
+.wp-block-getwid-instagram {
+
+    .wp-block-getwid-instagram__wrapper {
+
+    }
+
+    .wp-block-getwid-instagram__media-wrapper {
+
+        .wp-block-getwid-instagram__media-link {
+
+            &:before {
+
+            }
+
+            img {
+
+            }
+
+            .wp-block-getwid-instagram__meta-wrapper {
+
+                .wp-block-getwid-instagram__meta {
+
+                }
+            }
+        }
+    }
+
+    &.has-spacing-none {
+
+    }
+
+    &.has-spacing-small {
+
+        .wp-block-getwid-instagram__item {
+            // example:
+            // padding: 5px;
+        }
+
+        .wp-block-getwid-instagram__wrapper {
+            // example:
+            // margin: -5px;
+        }
+    }
+
+    &.has-spacing-medium {
+
+        .wp-block-getwid-instagram__item {
+
+        }
+
+        .wp-block-getwid-instagram__wrapper {
+
+        }
+    }
+
+    &.has-spacing-normal {
+
+        .wp-block-getwid-instagram__item {
+
+        }
+
+        .wp-block-getwid-instagram__wrapper {
+
+        }
+    }
+
+    &.has-spacing-large {
+
+        .wp-block-getwid-instagram__item {
+
+        }
+
+        .wp-block-getwid-instagram__wrapper {
+
+        }
+    }
+}

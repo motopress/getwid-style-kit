@@ -1,0 +1,27 @@
+.wp-block-columns {
+
+    > .block-editor-inner-blocks > .block-editor-block-list__layout {
+
+        @include respond-to(sm) {
+            flex-wrap: nowrap;
+        }
+
+        > [data-type="core/column"] {
+            flex-basis: 100%;
+        }
+
+        @include respond-to(sm) {
+            flex-basis: 0;
+            flex-grow: 1;
+        }
+
+        &:nth-child(2n),
+        &:not(:first-child) {
+            margin-left: 0;
+
+            @include respond-to(sm) {
+                margin-left: $wp-block-columns__gap;
+            }
+        }
+    }
+}

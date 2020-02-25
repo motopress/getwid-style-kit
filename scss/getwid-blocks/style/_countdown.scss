@@ -1,0 +1,99 @@
+.wp-block-getwid-countdown {
+
+    .countdown-section {
+
+    }
+
+    .countdown-row {
+
+    }
+
+    .wp-block-getwid-countdown__wrapper {
+
+    }
+
+    .wp-block-getwid-countdown__content {
+        &.is-countdown {
+
+            .countdown-row {
+
+                .countdown-section {
+
+                    .countdown-amount {
+
+                    }
+
+                    .countdown-period {
+
+                    }
+                }
+            }
+        }
+    }
+
+    //Space around numbers
+    &.has-inner-paddings-small {
+        .countdown-section {
+
+        }
+    }
+
+    &.has-inner-paddings-medium {
+        .countdown-section {
+
+        }
+    }
+
+    &.has-inner-paddings-normal {
+        .countdown-section {
+
+        }
+    }
+
+    &.has-inner-paddings-large {
+        .countdown-section {
+
+        }
+    }
+
+    //Space between numbers
+    &.has-spacing-small {
+        .wp-block-getwid-countdown__content {
+
+        }
+
+        .countdown-section {
+
+        }
+    }
+
+    &.has-spacing-medium {
+        .wp-block-getwid-countdown__content {
+
+        }
+
+        .countdown-section {
+
+        }
+    }
+
+    &.has-spacing-normal {
+        .wp-block-getwid-countdown__content {
+
+        }
+
+        .countdown-section {
+
+        }
+    }
+
+    &.has-spacing-large {
+        .wp-block-getwid-countdown__content {
+
+        }
+
+        .countdown-section {
+
+        }
+    }
+}

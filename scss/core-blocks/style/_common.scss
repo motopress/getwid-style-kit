@@ -1,0 +1,20 @@
+// .entry-content - default content wrapper class
+// change it if you need
+.entry-content {
+    > * {
+        max-width: $block-default-width;
+        margin-bottom: $space-between-blocks;
+
+        &:last-child{
+            margin-bottom: 0;
+        }
+
+        &.alignwide {
+            max-width: $block-wide-width;
+        }
+
+        &.alignfull {
+            max-width: $block-full-width;
+        }
+    }
+}

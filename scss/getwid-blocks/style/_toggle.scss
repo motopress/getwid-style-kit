@@ -1,0 +1,47 @@
+.wp-block-getwid-toggle {
+
+    .wp-block-getwid-toggle__row {
+
+        &:first-child {
+            .wp-block-getwid-toggle__header-wrapper {
+
+            }
+        }
+
+        .wp-block-getwid-toggle__header-wrapper {
+
+        }
+
+        .wp-block-getwid-toggle__header {
+
+            a {
+
+            }
+        }
+
+        .wp-block-getwid-toggle__header-title {
+
+        }
+
+        .wp-block-getwid-toggle__icon {
+
+            i {
+
+            }
+        }
+
+        .wp-block-getwid-toggle__content {
+
+        }
+
+    }
+
+    &.has-icon-left {
+        .wp-block-getwid-toggle__row {
+
+            .wp-block-getwid-toggle__icon {
+
+            }
+        }
+    }
+}

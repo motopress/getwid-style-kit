@@ -1,0 +1,16 @@
+{
+  "name": "getwid-style-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "MotoPress",
+  "license": "GPL",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-line-ending-corrector": "^1.0.2",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^4.0.1"
+  }
+}

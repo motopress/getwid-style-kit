@@ -1,0 +1,22 @@
+.wp-block-rss {
+
+    &.alignleft {
+
+    }
+
+    &.alignright {
+
+    }
+
+    &.is-grid {
+
+        li {
+            margin: 0 $wp-block-rss__grid-gap $wp-block-rss__grid-gap 0;
+        }
+    }
+}
+
+.wp-block-rss__item-publish-date,
+.wp-block-rss__item-author {
+
+}

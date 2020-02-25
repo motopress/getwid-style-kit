@@ -1,0 +1,18 @@
+/*!
+ * Getwid Style Kit v1.0.0
+ * Copyright 2020 MotoPress
+ * Import this file to the main sass/scss file of your theme.
+ * Example: @import "getwid-style-kit/scss/style"
+ *
+ * For more information visit https://github.com/mototeam/
+ * License GNU GPL v2 or later.
+ */
+
+// Variables
+@import "variables";
+// Core Blocks styles
+@import "core-blocks/style";
+// Getwid Blocks styles
+@import "getwid-blocks/style";
+// Colors
+@import "colors";

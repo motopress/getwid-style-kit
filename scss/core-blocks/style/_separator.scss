@@ -1,0 +1,17 @@
+.wp-block-separator{
+
+    &:not(.is-style-wide):not(.is-style-dots){
+
+    }
+
+    &.is-style-wide{
+
+    }
+
+    &.is-style-dots{
+
+        &:before{
+
+        }
+    }
+}

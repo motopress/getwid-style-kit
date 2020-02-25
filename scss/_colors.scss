@@ -1,0 +1,11 @@
+// You can add additional class-wrapper around
+// color classes if colors are not applied
+
+@each $color, $hex in $colors {
+    .has-#{$color}-color {
+        color: $hex;
+    }
+    .has-#{$color}-background-color {
+        background-color: $hex;
+    }
+}

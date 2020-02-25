@@ -1,0 +1,25 @@
+.wp-block-button {
+
+    &__link {
+
+        &:hover,
+        &:focus,
+        &:active,
+        &:visited {
+
+        }
+    }
+}
+
+.is-style-outline {
+
+    .wp-block-button__link {
+
+        &:hover,
+        &:focus,
+        &:active,
+        &:visited {
+
+        }
+    }
+}

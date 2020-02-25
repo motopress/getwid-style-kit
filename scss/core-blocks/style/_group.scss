@@ -1,0 +1,13 @@
+.wp-block-group {
+    &.has-background {
+
+    }
+
+    .wp-block-group__inner-container{
+        > *{
+            &:last-child{
+                margin-bottom: 0;
+            }
+        }
+    }
+}

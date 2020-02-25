@@ -1,0 +1,26 @@
+.wp-block-getwid-contact-form {
+
+    .wp-block-getwid-field-name,
+    .wp-block-getwid-field-email,
+    .wp-block-getwid-field-textarea {
+
+    }
+
+    .wp-block-getwid-contact-form__result {
+
+        &.success {
+
+        }
+
+        &.fail {
+
+        }
+    }
+
+    .wp-block-getwid-contact-form__submit {
+
+        .wp-block-button {
+
+        }
+    }
+}

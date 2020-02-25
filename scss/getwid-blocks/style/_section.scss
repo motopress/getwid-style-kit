@@ -1,0 +1,59 @@
+.wp-block-getwid-section {
+
+    &.has-inner-blocks-gap-none {
+        > .wp-block-getwid-section__wrapper
+        > .wp-block-getwid-section__inner-wrapper
+        > .wp-block-getwid-section__content
+        > .wp-block-getwid-section__inner-content
+        > .wp-block-columns
+        > .wp-block-column {
+
+        }
+    }
+
+    &.has-inner-blocks-gap-small {
+        > .wp-block-getwid-section__wrapper
+        > .wp-block-getwid-section__inner-wrapper
+        > .wp-block-getwid-section__content
+        > .wp-block-getwid-section__inner-content > * {
+
+        }
+    }
+
+    &.has-inner-blocks-gap-medium {
+        > .wp-block-getwid-section__wrapper
+        > .wp-block-getwid-section__inner-wrapper
+        > .wp-block-getwid-section__content
+        > .wp-block-getwid-section__inner-content > * {
+
+        }
+    }
+
+    &.has-inner-blocks-gap-normal {
+        > .wp-block-getwid-section__wrapper
+        > .wp-block-getwid-section__inner-wrapper
+        > .wp-block-getwid-section__content
+        > .wp-block-getwid-section__inner-content > * {
+
+        }
+    }
+
+    &.has-inner-blocks-gap-large {
+        > .wp-block-getwid-section__wrapper
+        > .wp-block-getwid-section__inner-wrapper
+        > .wp-block-getwid-section__content
+        > .wp-block-getwid-section__inner-content > * {
+
+        }
+    }
+
+    &.has-inner-blocks-gap-huge {
+        > .wp-block-getwid-section__wrapper
+        > .wp-block-getwid-section__inner-wrapper
+        > .wp-block-getwid-section__content
+        > .wp-block-getwid-section__inner-content > * {
+
+        }
+    }
+
+}

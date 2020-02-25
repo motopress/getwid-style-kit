@@ -1,0 +1,114 @@
+.wp-block-getwid-custom-post-type {
+
+    .wp-block-getwid-custom-post-type__post-wrapper {
+
+    }
+
+    .wp-block-getwid-custom-post-type__post {
+
+        .wp-block-getwid-custom-post-type__post-title {
+
+        }
+
+        .wp-block-getwid-custom-post-type__post-thumbnail {
+
+            img {
+
+            }
+        }
+
+        .wp-block-getwid-custom-post-type__post-excerpt {
+
+        }
+    }
+
+    .navigation.pagination {
+
+    }
+
+    &.has-layout-list {
+        .wp-block-getwid-custom-post-type__post {
+
+        }
+    }
+
+    &.has-spacing-none {
+
+    }
+
+    &.has-spacing-small {
+        &.has-layout-list {
+            .wp-block-getwid-custom-post-type__post {
+                + .wp-block-getwid-custom-post-type__post {
+                    // example:
+                    // margin-top: 20px;
+                }
+            }
+        }
+
+        > .wp-block-getwid-custom-post-type__wrapper.getwid-columns {
+            // example:
+            // margin-left: -5px;
+            // margin-right: -5px;
+
+            > * {
+                // example:
+                // margin-top: 10px;
+                // padding-left: 5px;
+                // padding-right: 5px;
+            }
+        }
+    }
+
+    &.has-spacing-medium {
+        &.has-layout-list {
+            .wp-block-getwid-custom-post-type__post {
+                + .wp-block-getwid-custom-post-type__post {
+
+                }
+            }
+        }
+
+        > .wp-block-getwid-custom-post-type__wrapper.getwid-columns {
+
+            > * {
+
+            }
+        }
+    }
+
+    &.has-spacing-normal {
+        &.has-layout-list {
+            .wp-block-getwid-custom-post-type__post {
+                + .wp-block-getwid-custom-post-type__post {
+
+                }
+            }
+        }
+
+        > .wp-block-getwid-custom-post-type__wrapper.getwid-columns {
+
+            > * {
+
+            }
+        }
+    }
+
+    &.has-spacing-large {
+
+        &.has-layout-list {
+            .wp-block-getwid-custom-post-type__post {
+                + .wp-block-getwid-custom-post-type__post {
+
+                }
+            }
+        }
+
+        > .wp-block-getwid-custom-post-type__wrapper.getwid-columns {
+
+            > * {
+
+            }
+        }
+    }
+}

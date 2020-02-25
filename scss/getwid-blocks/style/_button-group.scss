@@ -1,0 +1,41 @@
+.wp-block-getwid-button-group {
+
+    .wp-block-button {
+
+    }
+
+    .wp-block-getwid-button-group__wrapper {
+
+        &.has-spacing-small {
+            // example:
+            // margin: 0 -10px -10px -10px !important;
+
+            .wp-block-button {
+                // example:
+                //padding: 0 10px 10px 10px;
+            }
+        }
+
+        &.has-spacing-medium {
+
+            .wp-block-button {
+
+            }
+        }
+
+        &.has-spacing-normal {
+
+            .wp-block-button {
+
+            }
+        }
+
+        &.has-spacing-large {
+
+            .wp-block-button {
+
+            }
+        }
+    }
+}
+

@@ -1,0 +1,25 @@
+.wp-block-getwid-mailchimp {
+
+    .wp-block-getwid-field-first-name,
+    .wp-block-getwid-field-last-name,
+    .wp-block-getwid-field-email {
+
+    }
+
+    .wp-block-getwid-mailchimp__result {
+        &.success {
+
+        }
+
+        &.fail {
+
+        }
+    }
+
+    &__submit {
+
+        .wp-block-button {
+
+        }
+    }
+}

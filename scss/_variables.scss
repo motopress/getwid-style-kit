@@ -1,0 +1,70 @@
+@import "helpers/screen";
+
+// Note that color and color name below must be
+// the same as in editor-color-palette registered by a theme
+// slug: color
+$colors: () !default;
+$colors: map-merge((
+    color-1: #0489ef,
+    color-2: #484848,
+    color-3: #e0e0e0,
+    color-4: #808080,
+), $colors);
+
+// Block width for different alignments
+$block-default-width: 610px !default;
+$block-wide-width: 1100px !default;
+$block-full-width: none !default;
+
+// Vertical space after each block in content
+$space-between-blocks: 28px !default;
+
+// Vertical/horizontal spaces
+// in some blocks with complex structure
+$wp-block-columns__gap: 16px !default;
+$wp-block-image-gallery__image-gap: 16px !default;
+$wp-block-latest-posts__grid-gap: 16px !default;
+$wp-block-rss__grid-gap: 16px !default;
+
+// Getwid padding sizes used in getwid/section block
+$getwid-padding-small: 10px !default;
+$getwid-padding-medium: 25px !default;
+$getwid-padding-normal: 40px !default;
+$getwid-padding-large: 60px !default;
+
+$getwid-padding-tablet-small: 10px !default;
+$getwid-padding-tablet-medium: 25px !default;
+$getwid-padding-tablet-normal: 40px !default;
+$getwid-padding-tablet-large: 60px !default;
+
+$getwid-padding-mobile-small: 10px !default;
+$getwid-padding-mobile-medium: 25px !default;
+$getwid-padding-mobile-normal: 40px !default;
+$getwid-padding-mobile-large: 60px !default;
+
+// Getwid margin sizes used in getwid/section block
+$getwid-margin-small: 10px !default;
+$getwid-margin-medium: 25px !default;
+$getwid-margin-normal: 40px !default;
+$getwid-margin-large: 60px !default;
+
+$getwid-margin-tablet-small: 10px !default;
+$getwid-margin-tablet-medium: 25px !default;
+$getwid-margin-tablet-normal: 40px !default;
+$getwid-margin-tablet-large: 60px !default;
+
+$getwid-margin-mobile-small: 10px !default;
+$getwid-margin-mobile-medium: 25px !default;
+$getwid-margin-mobile-normal: 40px !default;
+$getwid-margin-mobile-large: 60px !default;
+
+// Getwid font sizes used in getwid/advanced-headings block
+$getwid-font-size-tablet-small: 0.5em !default;
+$getwid-font-size-tablet-normal: 1em !default;
+$getwid-font-size-tablet-large: 1.5em !default;
+$getwid-font-size-tablet-huge: 2em !default;
+
+$getwid-font-size-mobile-small: 0.5em !default;
+$getwid-font-size-mobile-normal: 1em !default;
+$getwid-font-size-mobile-large: 1.5em !default;
+$getwid-font-size-mobile-huge: 2em !default;

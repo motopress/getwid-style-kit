@@ -1,0 +1,77 @@
+.wp-block-getwid-social-links {
+
+    .wp-block-getwid-social-links__list {
+
+    }
+
+    .wp-block-getwid-social-links__item {
+
+    }
+
+    .wp-block-getwid-social-links__link {
+
+        i {
+
+        }
+    }
+
+    .wp-block-getwid-social-links__wrapper {
+
+    }
+
+    &.has-icons-framed {
+
+        .wp-block-getwid-social-links__wrapper {
+
+        }
+    }
+
+    &.has-icons-stacked {
+
+        .wp-block-getwid-social-links__link {
+
+            .wp-block-getwid-social-links__wrapper {
+
+            }
+        }
+    }
+
+    &.has-none-spacing {
+
+    }
+
+    &.has-small-spacing {
+
+        .wp-block-getwid-social-links__list {
+            // example:
+            // margin: 0 -.125em -.125em;
+        }
+
+        .wp-block-getwid-social-links__item {
+            // example:
+            // padding: 0 0.125em .125em;
+        }
+    }
+
+    &.has-medium-spacing {
+
+        .wp-block-getwid-social-links__list {
+
+        }
+
+        .wp-block-getwid-social-links__item {
+
+        }
+    }
+
+    &.has-large-spacing {
+
+        .wp-block-getwid-social-links__list {
+
+        }
+
+        .wp-block-getwid-social-links__item {
+
+        }
+    }
+}

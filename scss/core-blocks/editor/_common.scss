@@ -1,0 +1,26 @@
+body{
+
+}
+
+.editor-post-title__block{
+    .editor-post-title__input{
+
+    }
+}
+
+/* Width of blocks */
+.wp-block {
+    max-width: $block-default-width;
+}
+
+/* Width of "wide" blocks */
+.wp-block[data-align="wide"] {
+    max-width: $block-wide-width;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Width of "full-wide" blocks */
+.wp-block[data-align="full"] {
+    max-width: $block-full-width;
+}

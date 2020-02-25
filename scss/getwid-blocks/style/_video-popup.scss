@@ -1,0 +1,152 @@
+.wp-block-getwid-video-popup {
+
+    .wp-block-getwid-video-popup__wrapper {
+
+        &:after {
+
+        }
+    }
+
+    .wp-block-getwid-video-popup__icon {
+
+        i {
+
+        }
+    }
+
+    .wp-block-getwid-video-popup__button-caption {
+
+    }
+
+    .wp-block-getwid-video-popup__title {
+
+    }
+
+    .wp-block-getwid-video-popup__caption {
+
+    }
+
+
+    .wp-block-getwid-video-popup__link {
+
+    }
+
+    .wp-block-getwid-video-popup__image,
+    .wp-block-getwid-video-popup__video {
+
+    }
+
+    .wp-block-getwid-video-popup__button-wrapper {
+
+    }
+
+    .wp-block-getwid-video-popup__button {
+
+        &:before {
+
+        }
+
+        &.is-style-bordered {
+
+            &:before {
+
+            }
+        }
+
+        &.is-style-outline {
+
+            &:before {
+
+            }
+        }
+
+        &.is-style-fill {
+
+            &:not(.has-background) {
+
+            }
+        }
+
+        &.is-style-default {
+
+            .wp-block-getwid-video-popup__button-caption {
+
+            }
+        }
+
+        &.has-animation-pulse {
+
+            .wp-block-getwid-video-popup__icon {
+
+                &:before {
+
+                }
+            }
+        }
+
+        &.has-image {
+
+            .wp-block-getwid-video-popup__wrapper {
+
+                &:not(.has-background) {
+
+                }
+            }
+
+            .wp-block-getwid-video-popup__button {
+
+            }
+
+            .wp-block-getwid-video-popup__link {
+
+            }
+        }
+
+        &.is-size-small {
+
+            &.is-style-outline {
+
+            }
+
+            &.is-style-default {
+
+                .wp-block-getwid-video-popup__button-caption {
+
+                }
+            }
+
+            .wp-block-getwid-video-popup__icon {
+
+            }
+
+            .wp-block-getwid-video-popup__button-caption {
+
+            }
+        }
+
+        &.is-size-large {
+
+            &.is-style-outline {
+
+            }
+
+            &.is-style-default {
+                .wp-block-getwid-video-popup__button-caption {
+
+                }
+            }
+
+            .wp-block-getwid-video-popup__icon {
+
+            }
+
+            .wp-block-getwid-video-popup__button-caption {
+
+            }
+        }
+    }
+}
+
+.getwid-video-popup {
+
+}
