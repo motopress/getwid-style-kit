@@ -8,11 +8,11 @@
 
 This boilerplate is designed for WordPress theme developers who are interested in developing themes with the new WordPress 5.x Block Editor - Gutenberg.
 
-This Style Kit provides smartly organized starter scss files to style [**Gutenberg**](https://wordpress.org/plugins/gutenberg/) and [**Getwid WordPress Blocks**](https://wordpress.org/plugins/getwid/) blocks.
-
-**WordPress 5.x Block Editor – Gutenberg** is the new default WordPress Block Editor that shifted the focus of page and post building from templates to blocks.
+This Style Kit provides smartly organized starter scss files to style [**Gutenberg**](https://wordpress.org/plugins/gutenberg/) and [**Getwid WordPress Blocks**](https://wordpress.org/plugins/getwid/).
 
 **Getwid – Gutenberg Blocks** is the biggest free library of third-party blocks and design templates by MotoPress for the WordPress Block Editor. Lightweight, multipurpose and deeply customizable.
+
+WordPress Blocks by Getwid can be easily styled to match your theme with a free Getwid Style Kit we created specifically for you. It comes with useful theme support snippets and CSS classes to help you simplify and accelerate the development process of your themes built with Getwid and Gutenberg blocks.
 
 ## For themes built using SASS/SCSS 
 
@@ -147,7 +147,7 @@ Multifunctional static and dynamic blocks for Gutenberg:
 1. [Testimonial Block](https://getwid.getmotopress.com/blocks/testimonial-block/) - a no-frills testimonial block with an author avatar, citation and name.
 1. [Recent Posts Block](https://getwid.getmotopress.com/blocks/recent-posts-block/) - present your latest posts with custom metadata, list or grid layout and a choice of different output behaviors.
 1. [Advanced Spacer Block](https://getwid.getmotopress.com/blocks/advanced-spacer-block/) - add a space between your blocks with an adjustable spacer - optionally hide it on mobile, tablet or desktop devices.
-1. [Instagram Block](https://getwid.getmotopress.com/blocks/instagram-block/) - it provides an easy way to connect your Instagram to WordPress and creates a customizable live-feed gallery.
+1. [Instagram Block](https://getwid.getmotopress.com/blocks/instagram-block/) - connect your Instagram to WordPress and create a customizable live-feed gallery.
 1. [Counter Block](https://getwid.getmotopress.com/blocks/counter-block/) - show the most significant data about your business in numbers with the lightweight animated counters.
 1. [Price Box Block](https://getwid.getmotopress.com/blocks/price-box-block/) - visualize any data by creating all sorts of comparison and pricing tables.
 1. [Progress Bar Block](https://getwid.getmotopress.com/blocks/progress-bar-block/) - a simple animated horizontal progress bar with customizable colors.
