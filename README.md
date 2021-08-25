@@ -14,6 +14,8 @@ This Style Kit provides smartly organized starter scss files to style [**Gutenbe
 
 WordPress Blocks by Getwid can be easily styled to match your theme with a free Getwid Style Kit we created specifically for you. It comes with useful theme support snippets and CSS classes to help you simplify and accelerate the development process of your themes built with Getwid and Gutenberg blocks.
 
+See also: [Getwid Base: Default Theme for Getwid Blocks](https://motopress.com/products/getwid-base/)
+
 ## For themes built using SASS/SCSS 
 
 1. Download a zip folder/clone a repository.
@@ -162,6 +164,12 @@ Multifunctional static and dynamic blocks for Gutenberg:
 1. [Video Popup Block](https://getwid.getmotopress.com/video-popup-block/) - display your Youtube, Vimeo or self-hosted videos in popups; the play video button, custom video covers, colors and sizes of the block containers are fully adjustable.
 1. [Content Timeline Block](https://getwid.getmotopress.com/content-timeline-block/) - display chronological order of any events in a stylish timeline graph with such adjustable containers as headings, subheadings, images, etc.
 1. [Image Hotspot Block](https://getwid.getmotopress.com/image-hotspot-block/) - place unlimited animated markers with fully customizable tooltips over your image to make it more informative and interactive.
+1. [Table of Contents Block](https://getwid.getmotopress.com/blocks/table-of-contents-wordpress-block/) - create a table of contents based on your page headings (H2, H3, H4, etc.), with either an ordered or unordered list.
+1. [Anchor Block](https://getwid.getmotopress.com/blocks/anchor-wordpress-block/) - add HTML anchors # to make it easy for your readers to jump between page sections.
+1. [Advanced Table Block](https://getwid.getmotopress.com/blocks/advanced-table-wordpress-block/) - a table Gutenberg block with more table settings and design flexibility, e.g. you can merge cells, edit background colors and tailor borders.
+
+### Getwid + the ACF Plugin Integration
+The Post Carousel, Post Slider, and Custom Post Type blocks by Getwid can be extended with the ACF plugin custom fields. In particular, you can integrate Wysiwyg, Select, Image and Background Image fields provided by ACF.
 
 Check [settings and examples](https://motopress.com/blog/category/getwid-gutenberg-blocks/) of each Getwid block. We are in the process of building more on-demand blocks for Gutenberg!
 
